@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "loja_suplementos",
+    "slug": "loja_suplementos",
+    "version": "1.0.0",
+    "scheme": "your-app-scheme",
+    "orientation": "portrait",
+    "icon": "./assets/logosuplementos-removebg-preview.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logosuplementos-removebg-preview.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logosuplementos-removebg-preview.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logosuplementos-removebg-preview.png"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
